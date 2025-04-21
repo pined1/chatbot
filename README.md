@@ -1,5 +1,5 @@
 
-# 🤖 DS250 Chat Bot @ BYU–Idaho
+# DS250 Chat Bot @ BYU–Idaho
 
 Welcome to the **Data Science 250 Chat Bot**, a smart assistant trained on the BYU–Idaho DS250 course website.
 
@@ -15,7 +15,7 @@ This chatbot uses:
 
 ---
 
-## 🧠 Demo
+##  Demo
 
 <img src="example_demo.png" alt="Chatbot Demo" width="800">
 
@@ -34,7 +34,7 @@ This chatbot uses:
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repo
 
@@ -117,7 +117,7 @@ Start asking questions about the DS250 course!
 
 ---
 
-## 💬 Example Prompts
+## Example Prompts
 
 Try asking:
 
@@ -139,7 +139,7 @@ Try asking:
 
 ---
 
-## 🛡️ Security Tips
+##  Security Tips
 
 - **DO NOT** commit your real `.env` file.
 - The `faiss_index/` folder is local and should not be pushed to GitHub.
@@ -147,7 +147,7 @@ Try asking:
 
 ---
 
-## ✅ To-Do
+## To-Do
 
 - [ ] Add source document highlighting
 - [ ] Support PDF and Markdown input formats
@@ -156,12 +156,9 @@ Try asking:
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 Made with ❤️ by [@pined1](https://github.com/pined1)
 
 ---
 
-## 📄 License
-
-This project is for educational use at **BYU–Idaho**. Please do not share your OpenAI API key publicly.
